@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 1rem;
+    list-style-position: inside;
+}
+
+.vl{
+    border-left: 1px black solid;
+    border-right:1px black solid ;
+}
+
+table, th, tr, td{
+    border: 1px solid black;
+}
