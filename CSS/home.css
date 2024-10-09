@@ -6,7 +6,7 @@
 body{
     min-height: 100vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url(../IMG/background.JPG);
+    background-image: url(IMG/background.JPG);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
